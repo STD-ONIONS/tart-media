@@ -1,0 +1,8 @@
+bower_components/*
+node_modules/*
+test/*
+tests/*
+*.txt
+*.php
+.htaccess
+package-lock.json

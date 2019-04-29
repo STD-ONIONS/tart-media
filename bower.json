@@ -1,0 +1,21 @@
+{
+	"name": "tart-media",
+	"description": "",
+	"main": "package.json",
+	"authors": [
+		"ProjectSoft <projectsoft2009@yandex.ru>"
+	],
+	"license": "ISC",
+	"homepage": "https://github.com/STD-ONIONS/tart-media",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"jquery": "^3.4.0",
+		"jquery-ui": "jqueryui#^1.12.1"
+	}
+}
